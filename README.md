@@ -1,16 +1,41 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mohan-dev-portfolio/mohan-dev-portfolio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>MOHAN PRASATH</h1>
 
-Here are some ideas to get you started:
+  **Frontend Developer** &nbsp;•&nbsp; **AI & ML Background** &nbsp;•&nbsp; **Product Builder**
+  
+  <a href="https://mohan-dev-portfolio.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-24292e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/mohanprasath21" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;<a href="mailto:mohanprasath210607@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+> **Philosophy:** *I build pixel-perfect, intelligent interfaces. I believe in systems over shortcuts and clarity over chaos.*
+
+---
+
+### 👨‍💻 About Me
+
+I am a **Frontend Developer** based in India, specializing in the intersection of **Design** and **Artificial Intelligence**. 
+
+Unlike a traditional developer, I use my background in **AI/ML** to architect smarter user flows. I don't just write code; I build systems that are scalable, accessible, and performant. My goal is to create web experiences that feel native, fluid, and futuristic.
+
+---
+
+### 🔧 The Toolkit
+
+I focus on a lean, powerful stack to deliver production-grade applications.
+
+<br/>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,python,mysql,figma,git,github,vscode" alt="My Skills" />
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+  Developed by <b>Mohan Prasath</b> &nbsp;|&nbsp; <i>Open to freelance and collaboration.</i>
+
+</div>
