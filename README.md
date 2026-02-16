@@ -4,7 +4,7 @@
 
   **Frontend Developer** &nbsp;•&nbsp; **AI & ML Background** &nbsp;•&nbsp; **Product Builder**
   
-  <a href="https://mohanprasath-dev.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-24292e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/mohanprasath21" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.mohanprasath.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-24292e?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/mohanprasath21" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </div>
 
 > **Philosophy:** *I build pixel-perfect, intelligent interfaces. I believe in systems over shortcuts and clarity over chaos.*
