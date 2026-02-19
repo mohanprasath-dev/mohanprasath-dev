@@ -21,7 +21,7 @@ Unlike a traditional developer, I use my background in **AI/ML** to architect sm
 
 ### 🔧 The Toolkit
 
-- I focus on a lean, powerful stack to deliver production-grade applications.
+I focus on a lean, powerful stack to deliver production-grade applications.
 
 <br/>
 
