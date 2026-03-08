@@ -11,23 +11,17 @@
 [![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:mohanprasath210607@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/mohanprasath-dev)
 
-<br/><br/>
+<br/><hr/>
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,threejs&theme=dark&perline=8" />
-
-<br/>
-
-### AI & Machine Learning
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,threejs&theme=dark&perline=8" />
 
 <br/>
 
 ### Backend & DevOps
 
-<img src="https://skillicons.dev/icons?i=nodejs,mysql,supabase,docker,aws&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,mysql,supabase,docker&theme=dark&perline=8" />
 
 <br/>
 
@@ -35,19 +29,13 @@
 
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,vercel&theme=dark&perline=8" />
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=mohanprasath-dev&show_icons=true&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=888888&rank_icon=percentile" width="46%"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanprasath-dev&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888" width="46%"/>
-
-<br/><br/>
+<br/><hr/>
 
 <img src="https://streak-stats.demolab.com?user=mohanprasath-dev&theme=dark&hide_border=true&background=000000&stroke=222222&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=888888&sideLabels=888888&dates=555555" width="60%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohanprasath-dev&bg_color=000000&color=888888&line=444444&point=ffffff&area=true&area_color=111111&hide_border=true" width="94%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohanprasath-dev&bg_color=000000&color=888888&line=444444&point=ffffff&area=true&area_color=111111&hide_border=true&custom_title=Contribution%20Graph" width="94%"/>
 
 <br/>
 
