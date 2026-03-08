@@ -1,15 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=300&section=header&text=Mohan%20Prasath%20P&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=64&descColor=888888&descSize=15" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:111111&height=300&section=header&text=Mohan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=64&descColor=888888&descSize=15" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=600&lines=Building+pixel-perfect+interfaces+%F0%9F%8E%A8;AI+%C3%97+Frontend+Engineering+%F0%9F%A4%96;President+%40+Gen+AI+Club+%C2%B7+NIAT;Open+to+Freelance+%26+Collaborations+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://www.mohanprasath.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohanprasath21)
-[![Email](https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:mohanprasath210607@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/mohanprasath-dev)
+[![Portfolio](https://img.shields.io/badge/%20%20Portfolio%20%20-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.mohanprasath.dev)
+[![LinkedIn](https://img.shields.io/badge/%20%20LinkedIn%20%20-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohanprasath21)
+[![Email](https://img.shields.io/badge/%20%20Email%20%20-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohanprasath210607@gmail.com)
 
 <br/><hr/>
 
