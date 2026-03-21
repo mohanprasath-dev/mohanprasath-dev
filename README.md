@@ -30,7 +30,7 @@
 
 <br/><hr/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mohanprasath-dev&theme=dark&hide_border=true&mode=weekly&card_width=60%)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mohanprasath-dev&theme=dark&hide_border=true&mode=weekly&card_width=450)](https://git.io/streak-stats)
 
 <br/><br/>
 
