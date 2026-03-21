@@ -30,7 +30,7 @@
 
 <br/><hr/>
 
-<img src="https://streak-stats.demolab.com?user=mohanprasath-dev&theme=dark&hide_border=true&background=000000&stroke=222222&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=888888&sideLabels=888888&dates=555555" width="60%"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=mohanprasath-dev&theme=dark&hide_border=true&mode=weekly&card_width=60%)](https://git.io/streak-stats)
 
 <br/><br/>
 
